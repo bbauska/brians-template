@@ -8,3 +8,8 @@ Then, convert the documents (.docx) to markdown.  Edit the markdown.  Then use P
 
 Plan to work on Briansblog.bauska.org.  Problems with the Cascade Style Sheet.  I believe. Need to setup test environment to narrow down the issues.
 
+6/12/2024 12:04pm.  Rent at Fred Meyer $735.00.  Giving me about 100.00 to live on for the next 28+ days.  Under 4.00 a day. 
+Working on DOM Tree - switch from Xmas to any other holiday.  
+Working on SayHi as well.  More learning of progressive, responsive websites. Phone is like 80% of WWW now.
+Silus Gaming World - SEO - switch up. Whatever that means.
+My blog.  Add to do list for shopping (groceries).
