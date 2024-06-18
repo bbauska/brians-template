@@ -3,7 +3,7 @@ const width = 500;
 const height = 600;
 const quantity = 150;
 const types = [ 'text', 'select', 'progress', 'meter', 'button', 'radio', 'checkbox' ];
-const greetings = [ 'Silus Snake','Mr Beast','Subscribers','Silus','Silus Gaming World','Silus Gaming','Silus Spider','Hayden','Hayden Richelle','Kyah','Kyah Jean','Bauska','Branden','Brandy','Alex','Brian','Zack' ];
+const greetings = [ 'I love you','Silus','Silus Gaming','Gaming','World','Silus Gaming World','Silus Snake','Mr Beast','Subscribers','Silus Spider','Hayden','Hayden Richelle','Kyah','Kyah Jean','Bauska','Branden','Brandy','Branden Richelle','Grandpa','Poppie','Alex','Zack' ];
 
 let tree = document.querySelector( '.tree' ),
     treeRotation = 0;
