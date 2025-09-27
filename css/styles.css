@@ -144,13 +144,13 @@ details > summary {
 }
 details > p {
   border-radius: 0 0 10px 10px;
-  background-color: #fff;  /* white */
+  background-color: #fffff;  /* white */
   padding: 2px 6px;
   margin: 0;
   box-shadow: 3px 3px 4px #00008b;  /* dark blue*/
 }
 details[open] > summary {
-  background-color: yellow;
+  background-color: #ffff00;
 }
 
 background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
@@ -181,16 +181,16 @@ body {
   border-radius: 1px;
 }
 #myBtn:hover {
-  background-color: #555;  /* very dark gray */
+  background-color: #555555;  /* very dark gray */
 }
 
 th, td {
-  border: 1px solid black;
+  border: 1px solid #000000;
 }
 table {
   border-collapse: collapse;
   margin-left: 15px;
-  border: 1px solid black;
+  border: 1px solid #000000;
 }
 
 @media all and (max-width: 500px) {
@@ -203,7 +203,7 @@ table {
   div.example {
     font-size: 50px;
     padding: 50px;
-    border: 8px solid black;
-    background: yellow;
+    border: 8px solid #000000;
+    background: #ffff00;
   }
 }
